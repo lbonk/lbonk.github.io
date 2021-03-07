@@ -6,3 +6,13 @@ h1{
     color: darkblue;
     text-align: center;
 }
+.assigment{
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    background-color: aquamarine;
+}
+.assignment img{
+    width: 200px;
+    padding: 10px;
+}
