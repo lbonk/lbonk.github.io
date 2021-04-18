@@ -4,9 +4,10 @@ body{
 }
 
 .assignments{
-    width: 22%;
+    width: 100%;
     display:flex;
     flex-wrap: wrap;
+    flex-direction: row;
 }
 h1{
     color:  #F39B6D;
@@ -23,6 +24,7 @@ h2{
     padding: 20px 10px;
     background-color: #3E6990;
     border-radius: 25px;
+    width: 25%;
 }
 .assignment img{
     width: 200px;
